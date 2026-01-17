@@ -1,1 +1,15 @@
+frontend:
+  image: your-dockerhub/frontend:latest
+  port: 3000
+
+backend:
+  image: your-dockerhub/backend:latest
+  port: 5000
+
+db:
+  image: postgres:16-alpine
+  username: admin
+  password: admin
+  db: taskdb
+  port: 5432
 
