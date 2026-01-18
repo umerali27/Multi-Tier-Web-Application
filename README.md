@@ -15,10 +15,8 @@ The project also includes a **CI/CD pipeline** using **Jenkins** to automate bui
 
 * Real-world DevOps CI/CD pipeline design
 
-Containerization best practices
+* Containerization best practices
 
-Kubernetes and Helm-based deployments
+* Kubernetes and Helm-based deployments
 
-Multi-tier application architecture
-
-Infrastructure automation and scalability
+* Multi-tier application architecture.
