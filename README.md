@@ -11,7 +11,7 @@ The project also includes a **CI/CD pipeline** using **Jenkins** to automate bui
 ---
 🎯 Purpose of This Project
 
-* This project was created to demonstrate:
+This project was created to demonstrate:
 
 * Real-world DevOps CI/CD pipeline design
 
